@@ -1,0 +1,4 @@
+a Asia:
+b Africa:
+c Europa:
+d America do Norte:
