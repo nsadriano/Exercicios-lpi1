@@ -1,0 +1,7 @@
+total 24
+drwxr-xr-x 2 root root 4096 abr 16 14:17 if-down.d
+drwxr-xr-x 2 root root 4096 abr 16 14:17 if-post-down.d
+drwxr-xr-x 2 root root 4096 abr 16 14:17 if-pre-up.d
+drwxr-xr-x 2 root root 4096 abr 16 14:21 if-up.d
+-rw-r--r-- 1 root root  240 abr 16 14:23 interfaces
+drwxr-xr-x 2 root root 4096 jan 30  2017 interfaces.d

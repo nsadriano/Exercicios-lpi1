@@ -1,0 +1,3 @@
+drwxr-xr-x 2 root       root       4096 abr 16 14:21 /var/cache/fontconfig
+drwx------ 2 root       root       4096 abr 25 14:51 /var/cache/ldconfig
+drwxr-xr-x 6 Debian-gdm Debian-gdm 4096 abr 16 14:24 /var/lib/gdm3/.config
